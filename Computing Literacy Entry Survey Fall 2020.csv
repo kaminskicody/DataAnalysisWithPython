@@ -1,0 +1,203 @@
+,course,hear,program,interest,gender,race,age
+0,CMP 135,Family member or friend,Criminal Justice,3,Woman,White,35-64
+1,CMP 135,High School,Radiography,1,Woman,White,21-24
+2,CMP 135,Web site;Family member or friend;Current student;High School;Live nearby,Computer Science,5,Man,Multi-Racial,25-34
+3,CMP 135,Web site;Social Media;Community Event;Family member or friend;Employer;Current student;High School,Criminal Justice,1,Woman,White,21-24
+4,CMP 135,Current student;High School,Radiography,5,Man,Hispanic,25-34
+5,CMP 135,Web site;Billboard;Family member or friend;Current student;Alumni;High School,Exercise Science,3,Man,Choose not to reply,19-20
+6,CMP 135,Family member or friend;Alumni;High School,Criminal Justice,5,Woman,White,19-20
+7,CMP 135,Family member or friend;High School,Radiography,4,Woman,White,19-20
+8,CMP 135,Web site;Family member or friend;Alumni;High School,Mathematics,4,Man,Multi-Racial,19-20
+9,CMP 135,Billboard;Family member or friend;I would pass by CCM all the time,Public Health,2,Woman,White,35-64
+10,CMP 135,Family member or friend;High School,Radiography,2,Woman,White,21-24
+11,CMP 135,High School,Criminal Justice,2,Man,Hispanic,19-20
+12,CMP 101,Billboard,Public Health,5,Woman,White,35-64
+13,CMP 101,Web site;Billboard;Social Media;Family member or friend;Current student;High School,Child and Family Studies,3,Woman,White,21-24
+14,CMP 126,High School,Criminal Justice,2,Man,Multi-Racial,19-20
+15,CMP 126,Family member or friend,Liberal Arts and Sciences,3,Woman,White,19-20
+16,CMP 126,Current student,Child and Family Studies,2,Woman,White,25-34
+17,CMP 126,Family member or friend;Current student;High School,Comp Aided Drafting Tech,2,Man,White,25-34
+18,CMP 126,Family member or friend,Not in a degree program,4,Man,White,19-20
+19,CMP 126,Family member or friend;High School,Liberal Arts and Sciences,2,Woman,White,19-20
+20,CMP 126,Family member or friend,Child and Family Studies,1,Woman,African American,25-34
+21,CMP 126,Current student,Criminal Justice,1,Man,White,21-24
+22,CMP 126,Family member or friend,Not in a degree program,3,Man,White,18 and younger
+23,CMP 126,High School,Child and Family Studies,2,Woman,Multi-Racial,19-20
+24,CMP 126,Social Media;Family member or friend;Current student;Alumni;High School,Early Childhood Education,1,Man,White,21-24
+25,CMP 101,Web site;Billboard;Current student,Nursing,1,Woman,Hispanic,25-34
+26,CMP 126,Family member or friend;Current student;Alumni;High School,Criminal Justice,4,Man,Asian,18 and younger
+27,CMP 126,Family member or friend;Current student;High School,Human Services ,3,Woman,Hispanic,19-20
+28,CMP 101,Current student,Nursing,3,Woman,White,25-34
+29,CMP 101,Web site;Family member or friend;Current student;High School,Fine Arts Fashion Merchandising ,2,Woman,Asian,21-24
+30,CMP 101,Web site;Social Media;Family member or friend;Current student;Alumni;High School,Visual Fine Arts,2,Woman,White,18 and younger
+31,CMP 126,Web site,Political Science,3,Man,White,19-20
+32,CMP 101,Web site;Billboard;Social Media;Family member or friend,Hospitality Management ,3,Woman,White,19-20
+33,CMP 126,Current student;High School,Not in a degree program,2,Woman,White,18 and younger
+34,CMP 101,High School,Nursing,1,Woman,White,21-24
+35,CMP 101,Current student,Liberal Arts,1,Prefer not to say,Choose not to reply,21-24
+36,CMP 101,High School,Nursing,1,Woman,White,21-24
+37,CMP 126,Family member or friend;High School,Hospitality,1,Woman,White,19-20
+38,CMP 101,Family member or friend;High School,Hospitality ,2,Woman,White,19-20
+39,CMP 126,Web site;Billboard;Social Media;Community Event;Family member or friend;High School,Broadcasting Arts and Technology,3,Woman,Multi-Racial,18 and younger
+40,CMP 101,High School,Not in a degree program,2,Man,White,19-20
+41,CMP 126,Family member or friend;Current student;High School,Communication,3,Woman,White,21-24
+42,CMP 126,High School,Early Childhood Education,1,Woman,White,19-20
+43,CMP 126,Web site;Billboard;Social Media;Family member or friend;Current student;Alumni,Biology,3,Woman,White,25-34
+44,CMP 126,Family member or friend,Early Childhood Education,4,Woman,White,19-20
+45,CMP 126,Web site;Social Media;Family member or friend;Current student;Alumni;High School,Musical Theatre,2,Woman,White,18 and younger
+46,CMP 101,Family member or friend,Nursing,3,Woman,White,21-24
+47,CMP 101,Family member or friend;Current student;High School,Humanities Social Sciences,2,Woman,White,18 and younger
+48,CMP 126,Billboard;Family member or friend;Current student;Alumni;High School,Liberal Arts,3,Woman,White,19-20
+49,CMP 126,Web site;Billboard;Social Media;Family member or friend;Current student;Alumni;High School,Liberal Arts & Sciences,3,Man,White,19-20
+50,CMP 126,Family member or friend,30 College credit program,3,Man,White,21-24
+51,CMP 135,High School,Journalism,3,Man,White,19-20
+52,CMP 126,Family member or friend,Child and Family Studies,2,,Hispanic,19-20
+53,CMP 135,Family member or friend;Current student;Alumni;High School,Math education ,2,Woman,White,18 and younger
+54,CMP 126,Web site;Billboard;Family member or friend,Humanities,1,Man,White,19-20
+55,CMP 101,Billboard,Nursing,2,Woman,White,21-24
+56,CMP 126,Web site,Psychology ,1,Woman,White,21-24
+57,CMP 101,Current student,Liberal Arts,2,Man,African American,19-20
+58,CMP 126,Family member or friend,liberal arts/humanitites,1,Woman,White,19-20
+59,CMP 135,High School,Criminal Justice,2,Man,White,25-34
+60,CMP 135,Web site;Social Media;Community Event;Family member or friend;Alumni;High School,Exercise Science,1,Man,Hispanic,19-20
+61,CMP 101,Web site;Billboard;Television;Radio;Social Media;Community Event;Family member or friend;Alumni,Criminal Justice,2,Man,White,19-20
+62,CMP 101,Family member or friend;High School,Biology,4,Woman,White,21-24
+63,CMP 135,Web site,Criminal Justice,4,Man,Hispanic,19-20
+64,CMP 135,Family member or friend;Current student;High School,Criminal Justice,1,Woman,White,19-20
+65,CMP 135,Web site;Billboard;Television;Social Media;Family member or friend,Music Technology,5,Man,White,19-20
+66,CMP 135,Family member or friend;Current student;High School,Criminal Justice,2,Woman,White,19-20
+67,CMP 135,Family member or friend;High School,Culinary Arts and Science ,4,Woman,White,19-20
+68,CMP 101,Web site;Billboard;Television;Radio;Social Media;Community Event;Family member or friend;Employer;Current student;Alumni;High School,Criminal Justice,2,Man,White,19-20
+69,CMP 101,Web site;Billboard;Television;Family member or friend,fashion design  ,3,Woman,African American,25-34
+70,CMP 101,Family member or friend;High School,Not in a degree program,1,Man,White,21-24
+71,CMP 135,High School,Criminal Justice,1,Man,White,21-24
+72,CMP 135,Alumni,Exercise Science,1,Woman,White,25-34
+73,CMP 126,Family member or friend,Communication,1,Woman,White,21-24
+74,CMP 135,Web site;Billboard;Social Media;Family member or friend;Current student;High School,Mathematics,2,Woman,White,19-20
+75,CMP 126,High School,Human Services,2,Woman,White,21-24
+76,CMP 135,Family member or friend;Employer;Current student;Alumni;High School,Criminal Justice,1,Woman,White,18 and younger
+77,CMP 135,Family member or friend,Early Childhood Education,1,Woman,White,19-20
+78,CMP 135,Web site;Billboard;Current student;Alumni;High School,Radiography,3,Woman,White,21-24
+79,CMP 135,Web site;i had attendend ccm years ago right out of high school. I grew up in the area and always knew of the school,Radiography;Nursing,4,Woman,White,35-64
+80,CMP 135,Web site;Billboard;Social Media;Community Event;Family member or friend;High School,Physical Education ,1,Woman,White,18 and younger
+81,CMP 135,Web site;Radio;Community Event;Family member or friend;Employer;Current student;Alumni;High School,Public Health,2,Woman,White,19-20
+82,CMP 126,Family member or friend;Current student;Alumni;High School,Child and Family Studies,2,Woman,Hispanic,21-24
+83,CMP 135,Current student,Exercise Science,3,Woman,White,35-64
+84,CMP 135,Family member or friend;Current student;Alumni;High School,Exercise Science,1,Woman,White,19-20
+85,CMP 135,Community Event;Family member or friend;Current student;Alumni;High School,Exercise Science,1,Woman,White,19-20
+86,CMP 126,Web site,Criminal Justice,4,Man,White,65+
+87,CMP 135,Web site;Community Event;Family member or friend;High School,Criminal Justice,3,Man,Hispanic,19-20
+88,CMP 135,Web site;Family member or friend;High School,Radiography,3,Woman,Hispanic,21-24
+89,CMP 126,Family member or friend;High School,Culinary arts and science ,2,Woman,White,19-20
+90,CMP 101,Family member or friend,Nursing,1,Woman,White,35-64
+91,CMP 126,Web site;Family member or friend;Current student;Alumni;High School,Broadcasting Arts and Technology,2,Man,White,21-24
+92,CMP 135,High School,Radiography,1,Woman,Multi-Racial,19-20
+93,CMP 101,Web site;High School,Biology,4,Woman,White,21-24
+94,CMP 135,Family member or friend;High School,Radiography,1,Woman,Hispanic,19-20
+95,CMP 126,Social Media;Family member or friend;High School,Journalism,2,Woman,White,19-20
+96,CMP 126,Family member or friend;High School,Criminal Justice,1,Man,Multi-Racial,19-20
+97,CMP 101,Billboard;Family member or friend;Current student;High School,Nursing,1,Prefer not to say,Choose not to reply,19-20
+98,CMP 101,Billboard;Family member or friend;Current student;High School,Nursing,1,Prefer not to say,Choose not to reply,19-20
+99,CMP 126,Family member or friend;High School,Not in a degree program,3,Woman,White,18 and younger
+100,CMP 101,Web site;Family member or friend,Nursing,2,Woman,White,25-34
+101,CMP 101,Web site;Family member or friend,Nursing,2,Woman,White,25-34
+102,CMP 101,Billboard;Family member or friend;Current student;High School,Nursing,1,Woman,White,21-24
+103,CMP 126,Family member or friend,Not in a degree program,3,Prefer not to say,Choose not to reply,25-34
+104,CMP 126,Web site;Social Media;Family member or friend;High School,Business Administration,2,Man,White,19-20
+105,CMP 126,Social Media;Family member or friend;High School,Criminal Justice,2,Woman,White,18 and younger
+106,CMP 126,Social Media;Family member or friend;High School,Criminal Justice,2,Woman,White,18 and younger
+107,CMP 135,Family member or friend,Nursing,1,Man,Hispanic,21-24
+108,CMP 126,Family member or friend,Criminal Justice,4,Man,Multi-Racial,19-20
+109,CMP 135,Web site;Family member or friend,Radiography,1,Woman,White,21-24
+110,CMP 135,Web site;Current student,Radiography,3,Woman,White,21-24
+111,CMP 126,Web site;Billboard;Family member or friend,Early Childhood Education;Child and Family Studies,4,Woman,Hispanic,21-24
+112,CMP 135,Family member or friend;Current student;Alumni;High School,Public Health,2,Woman,Multi-Racial,19-20
+113,CMP 101,Family member or friend,Radiography,3,Woman,Hispanic,21-24
+114,CMP 135,Current student;High School,Exercise Science,3,Man,White,19-20
+115,CMP 135,Billboard;Family member or friend;High School,Radiography,3,Man,White,19-20
+116,CMP 101,Alumni,Criminal Justice,1,Man,White,21-24
+117,CMP 135,High School,Early Childhood Education,2,Woman,White,19-20
+118,CMP 135,High School,Criminal Justice,3,Woman,Hispanic,19-20
+119,CMP 135,Billboard;Family member or friend;Current student;High School,Music Technology,3,Man,Multi-Racial,19-20
+120,CMP 135,Family member or friend;High School,Criminal Justice,4,Woman,Multi-Racial,21-24
+121,CMP 135,Family member or friend;Current student;Alumni;High School,biology,4,Woman,African American,19-20
+122,CMP 135,High School,Criminal Justice,3,Woman,White,21-24
+123,CMP 135,High School,Criminal Justice,4,Woman,White,19-20
+124,CMP 135,Family member or friend,Early Childhood Education,2,Woman,White,25-34
+125,CMP 135,Family member or friend;Employer;Current student,Nursing,3,Woman,African American,35-64
+126,CMP 135,Family member or friend;Current student;Alumni;High School,Exercise Science,3,Man,White,25-34
+127,CMP 135,Family member or friend;Employer;Current student,Nursing,3,Woman,African American,35-64
+128,CMP 135,Family member or friend;Current student;High School,Exercise Science,5,Woman,Hispanic,19-20
+129,CMP 135,Web site;Family member or friend;Alumni,Music Technology,2,Woman,Asian,21-24
+130,CMP 135,Family member or friend;Employer;Current student;High School,Early Childhood Education,3,Woman,White,18 and younger
+131,CMP 126,High School,Liberal Arts,3,Man,Hispanic,19-20
+132,CMP 135,Family member or friend;Current student;Alumni;High School,Exercise Science,3,Man,White,25-34
+133,CMP 126,Social Media;Family member or friend;High School,Criminal Justice,2,Woman,White,18 and younger
+134,CMP 135,former student ,Radiography,2,Woman,White,25-34
+135,CMP 126,Family member or friend;High School,Not in a degree program,3,Man,White,19-20
+136,CMP 126,Family member or friend;Alumni,Biology,2,Man,White,19-20
+137,CMP 126,Web site;Family member or friend;High School,Child and Family Studies,2,Woman,Multi-Racial,19-20
+138,CMP 126,Family member or friend;Current student;High School,liberal arts,2,Woman,White,19-20
+139,CMP 126,Baseball coach recruit,Not in a degree program,1,Man,White,19-20
+140,CMP 126,Billboard;Community Event;Family member or friend;Current student;Alumni;High School,Psychology,2,Woman,White,19-20
+141,CMP 126,Community Event;High School,Early Childhood Education,2,Woman,White,25-34
+142,CMP 126,Web site;Billboard;Social Media;Family member or friend;High School,Music Performance,3,Man,Multi-Racial,21-24
+143,CMP 126,Family member or friend,Communication,3,Man,Hispanic,19-20
+144,CMP 126,Web site;Billboard;High School,Broadcasting Arts and Technology,4,Woman,White,19-20
+145,CMP 126,High School,Communication,4,Man,Hispanic,21-24
+146,CMP 126,Web site;Social Media;Community Event;Family member or friend;High School,Thinking of Biology and Engineering.,4,Man,Hispanic,19-20
+147,CMP 126,Current student;High School,Liberal arts,1,Man,Choose not to reply,21-24
+148,CMP 126,High School,Nursing,1,Woman,African American,35-64
+149,CMP 135,Web site;Family member or friend;Employer;High School;Nearest College,Mathematics and Financial,4,Man,Multi-Racial,18 and younger
+150,CMP 126,Current student;High School,Liberal Arts,1,Man,White,21-24
+151,CMP 101,Web site;Billboard;Social Media;Community Event;Family member or friend;Current student;Alumni,Nursing,2,Woman,Hispanic,25-34
+152,CMP 135,Family member or friend;High School,Radiography,2,Woman,White,18 and younger
+153,CMP 135,Web site;Social Media;Community Event;Family member or friend;Current student;High School,Liberal Arts,2,Woman,Multi-Racial,18 and younger
+154,CMP 135,Current student;High School,Early Childhood Education,3,Woman,Hispanic,19-20
+155,CMP 135,Billboard;Social Media;Family member or friend;Current student;High School,Criminal Justice,3,Woman,Hispanic,19-20
+156,CMP 135,Billboard;Radio;Community Event;Current student,Criminal Justice,2,Woman,White,19-20
+157,CMP 135,Family member or friend,Music Technology,1,Man,Hispanic,21-24
+158,CMP 135,Web site,Nursing,1,Woman,White,19-20
+159,CMP 135,Family member or friend;Current student;High School,Radiography,3,Woman,Asian,21-24
+160,CMP 135,Web site;Social Media;Family member or friend,Liberal Arts,2,Man,African American,18 and younger
+161,CMP 135,Social Media;Community Event;Family member or friend;Employer;High School,Child and Family Studies,1,Woman,White,19-20
+162,CMP 135,Family member or friend;Current student;Alumni;High School,Music Technology,3,Man,White,18 and younger
+163,CMP 135,High School,Criminal Justice,1,I do not identify,White,19-20
+164,CMP 135,Web site;Family member or friend,humanities ,5,Man,Hispanic,18 and younger
+165,CMP 126,Web site;Family member or friend,Liberal Arts,3,Man,Asian,19-20
+166,CMP 126,Family member or friend;High School,Public Health,3,Woman,White,19-20
+167,CMP 135,Family member or friend,Criminal Justice,1,Man,White,19-20
+168,CMP 126,High School,Broadcasting Arts and Technology,3,Man,Choose not to reply,21-24
+169,CMP 126,Current student,COMPUTER AIDED DESIGNING AND DRAFTING,5,Man,Asian,21-24
+170,CMP 126,High School,liberal arts,2,Man,White,21-24
+171,CMP 135,Billboard;Family member or friend,Criminal Justice,3,Woman,White,21-24
+172,CMP 126,Family member or friend;High School,Psychology ,2,Man,African American,21-24
+173,CMP 126,Web site;Social Media;Family member or friend;Employer;High School,fire science and technology,3,Man,White,18 and younger
+174,CMP 126,High School,Liberal Arts,3,Woman,Hispanic,25-34
+175,CMP 101,Web site;Family member or friend;Current student,Nursing,3,Woman,African American,19-20
+176,CMP 126,Family member or friend;Current student;High School,Communication,2,Man,White,25-34
+177,CMP 135,Community Event;Family member or friend;High School,Radiography,3,Woman,Choose not to reply,19-20
+178,CMP 135,Web site;Billboard;Social Media;Community Event;Family member or friend;Current student;Alumni;High School,Exercise Science,2,Woman,White,19-20
+179,CMP 101,Web site;Social Media;High School,Public Health,5,Woman,White,19-20
+180,CMP 101,Family member or friend;Current student;High School,Criminal Justice,5,Man,White,18 and younger
+181,CMP 135,High School,Early Childhood Education,5,Woman,White,21-24
+182,CMP 135,Family member or friend;High School,Music Technology,2,Man,White,19-20
+183,CMP 135,Current student;Alumni;High School,Criminal Justice,3,Man,White,19-20
+184,CMP 135,Family member or friend,Radiography,4,Woman,Asian,35-64
+185,CMP 135,Family member or friend;Current student;Alumni;High School,Communication;Radiography,3,Woman,African American,19-20
+186,CMP 135,Current student;High School,Radiography;Nursing,3,Woman,Multi-Racial,19-20
+187,CMP 135,High School,Early Childhood Education,3,Woman,Hispanic,19-20
+188,CMP 135,Web site;Social Media;Family member or friend;Current student;Alumni;High School,Music Technology,3,Man,White,18 and younger
+189,CMP 135,Web site;Family member or friend;High School,Criminal Justice,5,Man,Hispanic,21-24
+190,CMP 135,Web site;High School,Radiography,3,Woman,White,18 and younger
+191,CMP 135,Family member or friend;Current student,liberal arts,1,Woman,White,19-20
+192,CMP 135,High School,Criminal Justice,3,Man,White,19-20
+193,CMP 135,Family member or friend;Alumni;High School,Radiography,2,Woman,White,19-20
+194,CMP 126,High School,Communication,2,Woman,Hispanic,19-20
+195,CMP 135,Web site;High School,Criminal Justice,2,Man,Choose not to reply,19-20
+196,CMP 135,Family member or friend;Current student,Radiography,1,Man,Hispanic,19-20
+197,CMP 135,High School,Early Childhood Education,3,Woman,White,19-20
+198,CMP 135,Social Media;High School,Criminal Justice,1,Woman,White,19-20
+199,CMP 101,Family member or friend;Alumni;High School;local,Nursing,4,Man,Multi-Racial,18 and younger
+200,CMP 126,High School,liberal arts,4,Man,White,19-20
+201,CMP 126,Therapist ,Communication,4,Woman,Multi-Racial,21-24
